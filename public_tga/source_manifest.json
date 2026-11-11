@@ -1,0 +1,159 @@
+{
+  "repository": "MaCFP/matl-db",
+  "commit": "579b88265a329878a68e1161a8b9ceb5e62a9979",
+  "retrieval_date": "2026-09-29",
+  "files": [
+    {
+      "path": "sources/PMMA/README.md",
+      "repository_path": "PMMA/README.md",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/README.md",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/README.md?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "006b43f0829036ad3f0eaed956426902571ed1ba102a46d55b28e9b8883ab436",
+      "bytes": 1612
+    },
+    {
+      "path": "sources/PMMA/Material_Properties/2021/MaCFP_PMMA_NIST.json",
+      "repository_path": "PMMA/Material_Properties/2021/MaCFP_PMMA_NIST.json",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Material_Properties/2021/MaCFP_PMMA_NIST.json",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Material_Properties/2021/MaCFP_PMMA_NIST.json?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "e7275b679a9df3d03cd4a2b45f7a4cb0bb01bb094a004ccc4328cf5d5927048c",
+      "bytes": 1734
+    },
+    {
+      "path": "sources/PMMA/Material_Properties/README.md",
+      "repository_path": "PMMA/Material_Properties/README.md",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Material_Properties/README.md",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Material_Properties/README.md?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "b6fdecca6bd11603c1cd16f343f3d02ad809c2b9cff6a436d4db533fd7ece772",
+      "bytes": 2383
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/README.md",
+      "repository_path": "PMMA/Calibration_Data/README.md",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/README.md",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/README.md?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "181c8e82ac1bf4bba3d04c7feb1e022d83403fe46d63e7f296ce7d9eb4a1bb03",
+      "bytes": 5019
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/NIST/README.md",
+      "repository_path": "PMMA/Calibration_Data/NIST/README.md",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/NIST/README.md",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/NIST/README.md?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "ccfee08a70a5e3ca6f5c2e8efac5454fad1fb4bacedc3c3c2f7d78c6fab61f7b",
+      "bytes": 3090
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/README.md",
+      "repository_path": "PMMA/Calibration_Data/LCPP/README.md",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/README.md",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/README.md?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "7a4fc8f68e7105952b86d2b0b9eb91910dfb129474bd624b037781d84215c457",
+      "bytes": 3155
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/UMD/README.md",
+      "repository_path": "PMMA/Calibration_Data/UMD/README.md",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/UMD/README.md",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/UMD/README.md?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "f948842710cb96f9a61e52de19720a6271334fde9951dad69879cd4f36b38c93",
+      "bytes": 5964
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/UMD/UMD_TGA_N2_10K.csv",
+      "repository_path": "PMMA/Calibration_Data/UMD/UMD_TGA_N2_10K.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/UMD/UMD_TGA_N2_10K.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/UMD/UMD_TGA_N2_10K.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "8e20e5ec80187b836fb29b2ef11b49977e4ee3ef12f62eeeae451f0b84dde0b4",
+      "bytes": 20054
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_1.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_1.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_1.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_1.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "f115060ccd053bdc37d50a94c5c541d9e7ba9bbabda10f0b9b7449dc516750ad",
+      "bytes": 20509
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_2.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_2.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_2.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_2.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "76efba45b4a44270c5665b8b46f1de5975c0ca831a1deacc56bc6edfd7afcdd7",
+      "bytes": 22767
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_3.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_3.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_3.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_3.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "a615c1900c91b6ffd178f7adbaf62c1b19a55257d656a7e2db474a9358299108",
+      "bytes": 22781
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_4.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_4.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_4.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_4.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "c54dec1e62b754e43f672c8b8528e092858f1556ba269e550fb08c974125ec16",
+      "bytes": 22778
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_5.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_5.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_5.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_5.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "8e58a6bca448b88060220fd8b482e24e8b3268e851e42d5cb7e2c458bb7ce31b",
+      "bytes": 22723
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_1.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_1.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_1.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_1.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "a6b543e1d3678eeee331fe763687754490e967c76363b271a6aea1ef4566499d",
+      "bytes": 14808
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_2.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_2.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_2.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_2.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "95ce7a1b6c216756882405e869447bfcc55b67e523569776949b7786a5e8eb69",
+      "bytes": 14693
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_3.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_3.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_3.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_3.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "a76385ff5544bfdcf77edfb7c7302de02c2c12eee7a0679caebe1162b0e2e1f0",
+      "bytes": 14923
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_1.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_1.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_1.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_1.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "323411d6bb2dc0dcd65c6977feba97579cc1e389bfa00d963a3e2ff4b8d607a2",
+      "bytes": 18897
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_2.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_2.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_2.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_2.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "e08e204626214e63492588c5c5d329cc6b83c19a722e887fb7372ffa5ae07f99",
+      "bytes": 18634
+    },
+    {
+      "path": "sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_3.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_3.csv",
+      "url": "https://raw.githubusercontent.com/MaCFP/matl-db/579b88265a329878a68e1161a8b9ceb5e62a9979/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_3.csv",
+      "api_url": "https://api.github.com/repos/MaCFP/matl-db/contents/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_3.csv?ref=579b88265a329878a68e1161a8b9ceb5e62a9979",
+      "sha256": "ef6ee389bc6e8bfe7cd29deb8894bfb38a7e4e934cf745e2ef722d20ff661eb0",
+      "bytes": 18864
+    }
+  ]
+}

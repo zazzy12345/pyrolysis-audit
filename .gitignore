@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+public_tga/sources/
+public_tga/processed/
+public_tga/tga_metrics.json
+public_tga/tga_arrays.npz
+public_tga/independent_tga_application.*
+slab/data/
+slab/outputs/
+endpoint/portable_source_audit.csv
+verification_local.json

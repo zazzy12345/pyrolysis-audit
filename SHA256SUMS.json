@@ -1,0 +1,15 @@
+{
+  ".gitattributes": "1334078fccbf3c29213e052eae193c3ae5c9111e4ece0023bb558bababef5251",
+  ".gitignore": "cf1b62089693709b9b05f5701ee1c445e077cd57ae492764d2aed7ad5d4453ab",
+  "CHANGELOG.md": "5c881a5ab715b81e26f5f7f5715dd860e06d744bf91ec8bf61108d614dc718c5",
+  "endpoint/portable_source_audit.py": "aa35c7e23ec5ddb1de9228689a206b08735875225b8b468f4bd702473fb7e0e6",
+  "public_data_manifest.json": "d2044a9b00bac43e3518cca1eb14dc91c27cbfcc163cca6e490fa4705e1f4a82",
+  "public_tga/analyze_tga.py": "f0b9b4588dd876702f2dfafb7471fbb4fbf46de3af78dd9dfe71e7eaf6607ee8",
+  "public_tga/source_manifest.json": "03188f605e7506245ea7790ab1a38d4a7b32683e894377cbc4bae3d6837f2ddc",
+  "README.md": "caacc31530b2724e2e871b3f99125e3188dda82cd040100ca9a796dc87c7f34e",
+  "requirements-tested.txt": "508b82d2fe4efe28965be42608c3d3ec0551642f959d687cf1e4b38761e2e822",
+  "requirements.txt": "3d4bc97c73ceacf7103c4477a12954d19471daa914986709779ba82bfdfbcd69",
+  "scripts/fetch_public_data.py": "fe401e0b8dd231108d2ee663c8d6d29b8e639cb0dcc6b5896148b4de41dd06bf",
+  "slab/analyze_slab_gasification.py": "ef5dc4c0cf77ffbdff0d97b7ced2b7c7651bcafdd4799f7c448bb8b9d1b172d5",
+  "VERSION": "085d22f526fd6c444aad33f880738ca93951303ceffe2b112cf7b9e7327cf88c"
+}

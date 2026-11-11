@@ -1,0 +1,192 @@
+{
+  "repository": "MaCFP/matl-db",
+  "commit": "579b88265a329878a68e1161a8b9ceb5e62a9979",
+  "files": [
+    {
+      "destination": "public_tga/sources/PMMA/README.md",
+      "repository_path": "PMMA/README.md",
+      "sha256": "006b43f0829036ad3f0eaed956426902571ed1ba102a46d55b28e9b8883ab436",
+      "bytes": 1612
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Material_Properties/2021/MaCFP_PMMA_NIST.json",
+      "repository_path": "PMMA/Material_Properties/2021/MaCFP_PMMA_NIST.json",
+      "sha256": "e7275b679a9df3d03cd4a2b45f7a4cb0bb01bb094a004ccc4328cf5d5927048c",
+      "bytes": 1734
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Material_Properties/README.md",
+      "repository_path": "PMMA/Material_Properties/README.md",
+      "sha256": "b6fdecca6bd11603c1cd16f343f3d02ad809c2b9cff6a436d4db533fd7ece772",
+      "bytes": 2383
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/README.md",
+      "repository_path": "PMMA/Calibration_Data/README.md",
+      "sha256": "181c8e82ac1bf4bba3d04c7feb1e022d83403fe46d63e7f296ce7d9eb4a1bb03",
+      "bytes": 5019
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/NIST/README.md",
+      "repository_path": "PMMA/Calibration_Data/NIST/README.md",
+      "sha256": "ccfee08a70a5e3ca6f5c2e8efac5454fad1fb4bacedc3c3c2f7d78c6fab61f7b",
+      "bytes": 3090
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/README.md",
+      "repository_path": "PMMA/Calibration_Data/LCPP/README.md",
+      "sha256": "7a4fc8f68e7105952b86d2b0b9eb91910dfb129474bd624b037781d84215c457",
+      "bytes": 3155
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/UMD/README.md",
+      "repository_path": "PMMA/Calibration_Data/UMD/README.md",
+      "sha256": "f948842710cb96f9a61e52de19720a6271334fde9951dad69879cd4f36b38c93",
+      "bytes": 5964
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/UMD/UMD_TGA_N2_10K.csv",
+      "repository_path": "PMMA/Calibration_Data/UMD/UMD_TGA_N2_10K.csv",
+      "sha256": "8e20e5ec80187b836fb29b2ef11b49977e4ee3ef12f62eeeae451f0b84dde0b4",
+      "bytes": 20054
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_1.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_1.csv",
+      "sha256": "f115060ccd053bdc37d50a94c5c541d9e7ba9bbabda10f0b9b7449dc516750ad",
+      "bytes": 20509
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_2.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_2.csv",
+      "sha256": "76efba45b4a44270c5665b8b46f1de5975c0ca831a1deacc56bc6edfd7afcdd7",
+      "bytes": 22767
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_3.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_3.csv",
+      "sha256": "a615c1900c91b6ffd178f7adbaf62c1b19a55257d656a7e2db474a9358299108",
+      "bytes": 22781
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_4.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_4.csv",
+      "sha256": "c54dec1e62b754e43f672c8b8528e092858f1556ba269e550fb08c974125ec16",
+      "bytes": 22778
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_5.csv",
+      "repository_path": "PMMA/Calibration_Data/NIST/NIST_TGA_N2_10K_5.csv",
+      "sha256": "8e58a6bca448b88060220fd8b482e24e8b3268e851e42d5cb7e2c458bb7ce31b",
+      "bytes": 22723
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_1.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_1.csv",
+      "sha256": "a6b543e1d3678eeee331fe763687754490e967c76363b271a6aea1ef4566499d",
+      "bytes": 14808
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_2.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_2.csv",
+      "sha256": "95ce7a1b6c216756882405e869447bfcc55b67e523569776949b7786a5e8eb69",
+      "bytes": 14693
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_3.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_10K_3.csv",
+      "sha256": "a76385ff5544bfdcf77edfb7c7302de02c2c12eee7a0679caebe1162b0e2e1f0",
+      "bytes": 14923
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_1.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_1.csv",
+      "sha256": "323411d6bb2dc0dcd65c6977feba97579cc1e389bfa00d963a3e2ff4b8d607a2",
+      "bytes": 18897
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_2.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_2.csv",
+      "sha256": "e08e204626214e63492588c5c5d329cc6b83c19a722e887fb7372ffa5ae07f99",
+      "bytes": 18634
+    },
+    {
+      "destination": "public_tga/sources/PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_3.csv",
+      "repository_path": "PMMA/Calibration_Data/LCPP/LCPP_TGA_N2_20K_3.csv",
+      "sha256": "ef6ee389bc6e8bfe7cd29deb8894bfb38a7e4e934cf745e2ef722d20ff661eb0",
+      "bytes": 18864
+    },
+    {
+      "destination": "slab/data/README.md",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/README.md",
+      "sha256": "7ae28fb5e2483d18074ced3f9454987898a7656318a80a8596f4b47eda2ee71e",
+      "bytes": 24465
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_MLR_R3.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_MLR_R3.csv",
+      "sha256": "a37df9039fef469c39770737c3de6ebe1344ce65ca5bea89b5d10ede32c7b573",
+      "bytes": 5529
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_MLR_R4.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_MLR_R4.csv",
+      "sha256": "e1ae6ecd5317f9ad5f0a0c3c2694aae20d227bf5a2a2c022eb0ee3e1c77b3db0",
+      "bytes": 5533
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_MLR_R5.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_MLR_R5.csv",
+      "sha256": "73be4e4591abd752f6c7563b8b4c0a89dc31b8388b4539f6912182045c425f8c",
+      "bytes": 5567
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Mass_R3.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Mass_R3.csv",
+      "sha256": "69d0bda84b3330ed9e237ced42593d359150126db04dcd05bff476cebeecd74d",
+      "bytes": 4551
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Mass_R4.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Mass_R4.csv",
+      "sha256": "03dc59a8a02c0023e726d4c81f1eb2e3879c12a36c6e5fbb71a2a5754339b15e",
+      "bytes": 4694
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Mass_R5.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Mass_R5.csv",
+      "sha256": "3d44b4b67458d06fb85e45b900fd512aec74465cb2d511d205edc2f9ab6bdca8",
+      "bytes": 4693
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Temp_R1.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Temp_R1.csv",
+      "sha256": "cec2d7e9794fb361fc765ac22588c0f66d36dea3ffcb057656c8210bdaf2a45e",
+      "bytes": 1723
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Temp_R2.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Temp_R2.csv",
+      "sha256": "65d65841271ff1ceb049037a6e5e778f5fb56fccc53262fd1a1196a5ae8c5665",
+      "bytes": 1738
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Temp_R3.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Temp_R3.csv",
+      "sha256": "44945b0b78de026f9b9dcaa10a3efabbdc682b568e6fbe67874187769d7e43bf",
+      "bytes": 4188
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Temp_R4.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Temp_R4.csv",
+      "sha256": "e3d2fcc34ea1f0e6fa1dadf6996387a18435918d05cc55b32f28a99c9e24dff4",
+      "bytes": 3205
+    },
+    {
+      "destination": "slab/data/MaCFP-PMMA_Gasification_q50_Temp_R5.csv",
+      "repository_path": "PMMA/Validation_Data/NIST_Gasification_Apparatus/MaCFP-PMMA_Gasification_q50_Temp_R5.csv",
+      "sha256": "e6badce4e05d7e756ab35abe3b092cf356db43370684a58b7122aeae40f6937e",
+      "bytes": 2426
+    }
+  ]
+}
